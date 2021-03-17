@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EEG 324 Abstract Class Assignment", "EEG 324 Abstract Class Assignment.csproj", "{371DA992-2DDE-4041-95FB-80BE280F5CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{371DA992-2DDE-4041-95FB-80BE280F5CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371DA992-2DDE-4041-95FB-80BE280F5CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371DA992-2DDE-4041-95FB-80BE280F5CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371DA992-2DDE-4041-95FB-80BE280F5CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51567BB5-191B-4E23-B549-C9EE750302C6}
+	EndGlobalSection
+EndGlobal
